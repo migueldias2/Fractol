@@ -102,3 +102,6 @@ By visualizing this process for every point in the complex plane, we create a de
 
 The real and imaginary parts of the complex numbers serve as our x and y coordinates, respectively, allowing us to map the Mandelbrot set onto a 2D plane for visualization.
 
+# Visualization tool
+https://www.geogebra.org/m/mfewjrek
+
