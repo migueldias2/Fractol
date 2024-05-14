@@ -6,7 +6,7 @@ Fractals are like nature's secret code, unlocking mesmerizing shapes that repeat
 
 Fractals are mathematical wonders with a magical property: they look the same, no matter how close or far you zoom in. Imagine looking at a tree: from afar, you see its grand silhouette, with branches reaching out like arms. But zoom in, and each branch reveals a miniature version of the entire tree, with tinier branches sprouting from it. Keep zooming, and the pattern keeps repeating, getting smaller and smaller.
 
-###### Discovering Beauty in Simplicity
+#### Discovering Beauty in Simplicity
 
 Mathematically, fractals are born from simple rules, applied over and over. Take the Mandelbrot set, for example. It's crafted by a humble equation, but when you iterate it, magic happens. You get breathtakingly intricate patterns that never cease to amaze.
 
