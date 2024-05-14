@@ -10,11 +10,11 @@ Fractals are mathematical wonders with a magical property: they look the same, n
 
 Mathematically, fractals are born from simple rules, applied over and over. Take the Mandelbrot set, for example. It's crafted by a humble equation, but when you iterate it, magic happens. You get breathtakingly intricate patterns that never cease to amaze.
 
- Fractals in Nature
+#### Fractals in Nature
 
 Fractals aren't just a mathematical curiosity; they're everywhere in nature. Look at the branches of a tree, the veins of a leaf, or the curls of a seashell. Even coastlines and clouds harbor fractal-like patterns. They're the hidden design language of the universe.
 
- Beyond Nature: Practical Applications
+#### Beyond Nature: Practical Applications
 
 But fractals aren't just pretty shapes. They're also powerful tools. Scientists use them to understand natural phenomena, artists use them to create mind-bending graphics, and engineers use them to compress images and videos.
 
