@@ -104,4 +104,5 @@ The real and imaginary parts of the complex numbers serve as our x and y coordin
 
 # Visualization tool
 https://www.geogebra.org/m/mfewjrek
+http://mandel.gart.nz/
 
